@@ -20,6 +20,6 @@ Unity 3D交互客户端，可和后端FastAPI大模型服务通信，实现自�
 ```bash
 git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent-Frontend
 2. 依赖后端仓库
-git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent
+git clone https://github.com/Da1m3ngcjj/Multimodal-3D-AI-Agent-Backend
 
 ⚠️ 克隆前请确认本地已安装 Git LFS，否则模型资源会下载失败
